@@ -3,7 +3,7 @@
 ***Olá! meu nome é Pedro augusto,adoro tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👨‍🎓,Pretendendo atuar na área Backend🥇.***
 
 
-*Curiosidade sobre mim: Adoro jogar basquete🏀 e escutar música 🎶.*
+*Curiosidades sobre mim: Adoro jogar basquete🏀 e escutar música 🎶.*
 
 # ESTUDANDO||👨‍💻:
 
