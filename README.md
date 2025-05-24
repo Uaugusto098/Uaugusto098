@@ -1,6 +1,8 @@
 # PEDRO AUGUSTO BORGES DE SÁ👩‍💻
 
-***Olá! meu nome é Pedro augusto,adoro tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👨‍🎓,Pretendendo atuar na área Backend🥇.***
+***Olá, meu nome é Pedro Augusto e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Guarulhos. Tenho me dedicado ao aprendizado de linguagens de programação voltadas para o desenvolvimento backend, buscando aprimorar minhas habilidades e ampliar meu conhecimento na área.***
+
+
 
 
 *Curiosidades sobre mim: Adoro jogar basquete🏀 e escutar música 🎶.*
@@ -28,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-borges-de-sá-374849322/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uaugusto098)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedroaugusto.borges36@gmail.com)
-## (Procuro emprego de inicio imediato)
+
 
 
 
