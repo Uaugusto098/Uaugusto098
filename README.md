@@ -17,7 +17,7 @@
 # FERRAMENTAS E IDES UTILIZADAS||
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # GITHUB||
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
