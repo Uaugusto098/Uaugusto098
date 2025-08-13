@@ -20,7 +20,10 @@
 
 # GITHUB||
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple_icons=true)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave_icons=true)
 
 
 
