@@ -19,8 +19,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # GITHUB||
-https://github-readme-activity-graph.vercel.app/graph?username={Uaugusto098}
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098)](https://git.io/streak-stats)
 
 
 
