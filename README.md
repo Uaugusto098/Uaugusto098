@@ -19,7 +19,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # GITHUB||
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098&theme=bear)](https://git.io/streak-stats)
 
 
 
