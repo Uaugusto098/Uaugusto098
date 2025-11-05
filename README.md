@@ -18,11 +18,6 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-# GITHUB||
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Uaugusto098&theme=bear)](https://git.io/streak-stats)
-
-
-
 
 
 ## 🔗 Links Profissionais
