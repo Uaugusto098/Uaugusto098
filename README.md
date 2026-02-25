@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-<em>Estudos focados atualmente em desenvolvimento BackEnd, lógica de programação, aplicações desktop e em busca de aprender novas tecnologias.Gosto de expressar minhas ideias em código utilizando Java e Python atualmente,tenho experiências em outras tecnologias como C#, C, HTML, CSS e JavaScript.Busco estágio para ter a programação cada vez mais presente na minha rotina para me aprimorar profissionalmente.<em>
+<em>Estudos focados atualmente em desenvolvimento BackEnd, lógica de programação, aplicações desktop e em busca de aprender novas tecnologias.Gosto de expressar minhas ideias em código utilizando Java e Python, tenho experiências em outras tecnologias como C#, C, HTML, CSS e JavaScript.Busco estágio para ter a programação cada vez mais presente na minha rotina para me aprimorar profissionalmente.<em>
 
 ---
 
