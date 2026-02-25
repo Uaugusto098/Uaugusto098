@@ -1,31 +1,31 @@
-# PEDRO AUGUSTO BORGES DE SÁ👩‍💻
+<h1 align="center">Olá! Eu sou o Pedro Augusto 💻</h1>
 
-***Olá, meu nome é Pedro Augusto e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Guarulhos. Tenho me dedicado ao aprendizado de linguagens de programação voltadas para o desenvolvimento backend, buscando aprimorar minhas habilidades e ampliar meu conhecimento na área.***
+<p align="center">
+  <em>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End</em>
+</p>
 
+---
 
+## 🚀 Sobre Mim
 
+<em>Estudos focados atualmente em desenvolvimento BackEnd, lógica de programação, aplicações desktop e em busca de aprender novas tecnologias.Gosto de expressar minhas ideias em código utilizando Java e Python atualmente,tenho experiências em outras tecnologias como C#, C, HTML, CSS e JavaScript.Busco estágio para ter a programação cada vez mais presente na minha rotina para me aprimorar profissionalmente.<em>
 
-*Curiosidades sobre mim: Adoro jogar basquete🏀 e escutar música 🎶.*
+---
 
-# LINGUAGENS||👨‍💻:
+## 🛠️ Stacks
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)	
-
-
-
-# FERRAMENTAS E IDES UTILIZADAS||
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs" width=300 />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,dotnet" width=300 />
+</p>
 
 
 
 ## 🔗 Links Profissionais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-borges-de-sá-374849322/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uaugusto098)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedroaugusto.borges36@gmail.com)
 
-
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-augusto-borges-de-sá-374849322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Uaugusto098"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:pedroaugusto.borges36@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
+</p>
