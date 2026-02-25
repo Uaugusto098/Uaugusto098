@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Pedro Augusto 💻</h1>
 
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-End</em>
+  <em>Estudante de Análise e Desenvolvimento de Sistemas||4 Semestre | Desenvolvedor Back-End</em>
 </p>
 
 ---
